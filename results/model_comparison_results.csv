@@ -1,0 +1,4 @@
+Model,Accuracy
+LSTM,0.9699909090995789
+BERT,0.9827220439910889
+Zero-Shot Embeddings,0.83
